@@ -11,6 +11,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# Here is Project runnig !
+# Here is Screnshot of running Project !
 
-![todo list](/public/ts_todo.png.jpg?raw=true "Todo")
+![todo list](https://github.com/BhumikP/todo_typescript/blob/master/public/ts_todo.png "Todo")
